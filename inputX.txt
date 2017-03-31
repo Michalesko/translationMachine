@@ -1,0 +1,1 @@
+begin a5:=11+10;read(abc10,abc11,abc100);write((+99-a5)+a50-a55555565432,120,abcdefghijklmnopqrstuv - -20);if true if not true and(false)and true and false then read(abc102); else a:=6;end $
